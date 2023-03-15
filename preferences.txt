@@ -1,0 +1,5 @@
+favourite movie: Pulp fiction
+favourite series: Mr. Robot
+favourite food: Pizza
+favourite band: Arctic Monkeys
+favourite season: Spring

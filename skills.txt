@@ -1,0 +1,25 @@
+skills
+
+1. Testing theory
+2. Client-server architecture
+3. HTTP request methods, response codes,request and response structures
+4. JSON
+5. XML
+6. Postman
+7. Sniffing http traffic
+8. Dev tools
+9. Mobile testing
+10. XCode
+11. Android Studio
+12. ADB
+13. Charles
+14. Fiddler
+15. Linux terminal
+16. bash scripts and automatization
+17. Accessing remote servers
+18. SQL
+19. Postgres
+20. Redis
+21. Jmeter
+22. Scrum
+23. Python
