@@ -1,1 +1,14 @@
-
+Number: 1
+Priority: High
+Severity: High
+perating system: macOS Ventura 13.2
+evice: MacBook Pro 13' 2019
+Title: text
+Description: text
+Steps to reproduce:
+1. text
+2. text
+3. text
+4. text
+Expected result: text
+Actual result: text
