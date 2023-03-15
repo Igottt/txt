@@ -1,0 +1,6 @@
+name: Igor
+last name: Yankovski
+patronymic: Sergeevich
+age: 21
+number of pets: 0
+future expected salary 1000000
